@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+/Lib
+/Scripts
+pyvenv.cfg
+/env
+*.pyc
+__pycache__
+/api/static
+celerybeat-schedule
+celerybeat.pid
+daphne.sock
+daphne.sock.lock
+gunicorn.sock
+udo supervisorctl reread
